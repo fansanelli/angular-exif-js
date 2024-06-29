@@ -1,0 +1,13 @@
+{
+  "name": "angular-exif",
+  "version": "1.0.0-alpha",
+  "description": "Angular wrapper for Exif.js",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "author": "Francesco Ansanelli",
+  "license": "MIT",
+  "dependencies": {
+    "exif-js": "file:exif-js-3.0.0-alpha.tgz"
+  }
+}
